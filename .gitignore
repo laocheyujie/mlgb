@@ -1,0 +1,14 @@
+.venv/
+.env/
+
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+.vscode/
+
+.log
+
+models/
+tests/
